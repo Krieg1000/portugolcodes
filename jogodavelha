@@ -242,7 +242,7 @@ programa
 	{
 		inteiro opcao = 0
 		
-		escreva("Desenvolvedor: Arthur Roberto Dartora\nPrograma: Portugol Studio\nJogo: Jogo da Velha\nData de Criação: 02 de junho de 2023\n\n")
+		escreva("Desenvolvedor: Milena A. Fernandes\nPrograma: Portugol Studio\nJogo: Jogo da Velha\nData de Criação: 02 de junho de 2023\n\n")
 		
 		enquanto(opcao == 0 ou opcao > 2){	
 			
