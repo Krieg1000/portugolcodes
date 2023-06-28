@@ -1,0 +1,47 @@
+programa
+{
+	inclua biblioteca Util
+ --> u
+	
+	funcao inicio()
+	{
+		inteiro idade
+			cadeia nome
+
+			escreva("Olá! Informe seu nome ~~~> ")
+				leia(nome)
+			u.aguarde(1337)
+
+				escreva("Seja bem-vindo(a)! ", nome, "!")
+				
+			u.aguarde(1337)
+					
+					escreva("\nCarregando jogo...")
+
+//aguarde 10000 milisegundos (10 segundo)
+					u.aguarde(10000)
+						// continuação do programa
+
+					escreva("\n")
+					escreva("\n*********************")
+					escreva("\n*********************")
+					escreva("\n***     TESTE     ***")
+					escreva("\n*********************")
+					escreva("\n*********************")
+
+					u.aguarde(1337)
+
+					escreva("\n")
+					escreva("\n")
+					escreva("\nO jogo a seguir bla bla bla ...")
+					u.aguarde(2100)
+					escreva("\nbla bla bla")
+u.aguarde(2100)
+		escreva("\nmais bla bla bla...")
+		u.aguarde(2100)
+			escreva("\n bla bla bla... bla bla bla")
+				u.aguarde(2100)
+								
+					
+	}
+}
